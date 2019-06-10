@@ -1,0 +1,24 @@
+{
+  "name": "md-styles",
+  "version": "1.0.0",
+  "description": "A collection of base markdown styles and themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2052/md-styles.git"
+  },
+  "keywords": [
+    "markdown",
+    "base",
+    "styles"
+  ],
+  "author": "K-2052",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k2052/md-styles/issues"
+  },
+  "homepage": "https://github.com/k2052/md-styles#readme"
+}
