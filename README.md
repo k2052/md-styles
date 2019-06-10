@@ -46,7 +46,7 @@ And in CSS like this:
 
 - solarized-light
 
-I'll and a bunch more soon! PRs welcome
+I'll add a bunch more soon! PRs welcome
 
 ## TODOS
 
